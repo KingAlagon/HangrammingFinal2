@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/categoryTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select a Programming Language Category"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <Button
+        android:id="@+id/java"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Java"
+        android:layout_below="@id/categoryTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:id="@+id/python"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Python"
+        android:layout_below="@id/java"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp" />
+    <Button
+        android:id="@+id/webdev"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Web Development"
+        android:layout_below="@id/python"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp" />
+
+    <!-- Add more category buttons as needed -->
+
+</RelativeLayout>

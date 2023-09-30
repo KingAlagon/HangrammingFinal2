@@ -7,6 +7,17 @@
     android:padding="16dp"
     android:background="@android:color/white">
 
+
+    <!-- Add a TextView to display the username -->
+    <TextView
+        android:id="@+id/usernameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Username: "
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"/>
+
     <!-- Volume Up Button -->
     <Button
         android:id="@+id/volumeUpButton"
@@ -37,6 +48,7 @@
         android:padding="12dp"
         android:text="Volume Down"
         android:textColor="@android:color/black" />
+
 
     <!-- Logout Button -->
     <Button
