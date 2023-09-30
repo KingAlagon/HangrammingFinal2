@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#29C5F6</color>
+    <color name="havelockBlue">#5579C6</color>
+
+
+    <color name="start_color">#2980b9</color>
+    <color name="mid_color">#2B3856</color>
+    <color name="last_color">#2c3e50</color>
+
+    <color name="button_first">#373B44</color>
+    <color name="button_last">#4286f4</color>
+</resources>

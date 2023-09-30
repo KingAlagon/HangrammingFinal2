@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "475403282847",
+    "firebase_url": "https://login-signup-firebase-a834c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "login-signup-firebase-a834c",
+    "storage_bucket": "login-signup-firebase-a834c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475403282847:android:845293a214482d6e4335aa",
+        "android_client_info": {
+          "package_name": "com.example.hangramming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475403282847-ilo1idt0t3sf3qkpcrvprn6iejq0dmio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnnU1l87ZAA5MO1q4PP1M3F89VjqNvKo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475403282847-6ljkha30de5imfeinem9diarsi40an00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475403282847:android:7db9951b72046a084335aa",
+        "android_client_info": {
+          "package_name": "com.example.hangramming1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475403282847-ilo1idt0t3sf3qkpcrvprn6iejq0dmio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnnU1l87ZAA5MO1q4PP1M3F89VjqNvKo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475403282847-6ljkha30de5imfeinem9diarsi40an00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
